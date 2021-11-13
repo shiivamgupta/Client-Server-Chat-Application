@@ -3,7 +3,7 @@ Client Server Chat Application Using Socket Programming
 
 Note: While executing the client process, the IP address and PORT number of server is to be passed as command line argument.
 THE PORT USED BY SERVER: 10010
-Change it accordingly in server.c
+Change it accordingly in server.c Line 39.
 
 OUTPUT
 =======================================================
